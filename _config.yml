@@ -1,7 +1,7 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Jekyll Resume
+title: Phan Huy Anh
 email: email@domain.com
 description: Jekyll Resume is a mega simple resume theme for Jekyll.
 baseurl: ""
@@ -13,7 +13,7 @@ languages: HTML, CSS and Javascript
 twitter_username: mattcouchman
 github_username:  mattcouchman
 codepen_username:  mattcouchman
-email_address: some@email.com
+email_address: phanhuyanh251@gmail.com
 
 # Build settings
 markdown: kramdown
