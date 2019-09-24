@@ -16,3 +16,5 @@ email_address: phanhuyanh251@gmail.com
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
